@@ -23,6 +23,6 @@ Technical notes
 Submissions
 ---------------
 
-1. Publicly: Fork this repo and send us a pull request.
-2. Privately: Send us a tar.gz of your solution **including your .git folder** so we can see your commit history.
+1. Publicly: Fork this repo and send me a pull request.
+2. Privately: Send me a tar.gz of your solution **including your .git folder** so I can see your commit history.
 

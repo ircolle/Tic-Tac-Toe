@@ -1,7 +1,7 @@
 Story
 ======
 
-As a CMG manager, I want to see how you code a game of Tic Tac Toe, so that I can get a feel for a candidate's skills and strengths.
+I want to see how you code a game of Tic Tac Toe, so that I can get a feel for your skills and strengths.
 
 Acceptance criteria
 =======================
@@ -15,7 +15,7 @@ Acceptance criteria
 Technical notes
 ------------------
 
-* We are a Django shop, but it is not a requirement that you implement your program as a Django app.
+* It is not a requirement that you implement your program as a Django app.
 * Make sure your submission accurately reflects your development style.
 * Commit early and often, with good messages.
 
